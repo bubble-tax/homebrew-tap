@@ -1,6 +1,6 @@
 cask "bubble-tax" do
-  version "0.1.0,13"
-  sha256 "d3396d27b0821fc6ddcfa798f8ad4e7928fa7b3727ad7d1c0bbf80143613a913"
+  version "0.1.0,14"
+  sha256 "259138b4aca3e8fda20f8d644c4eb979f383f353e7ca50fc60a9a1e934dd9cf1"
 
   url "https://github.com/bubble-tax/bubble-tax-bar/releases/download/v#{version.before_comma}-build.#{version.after_comma}/Bubble-Tax-#{version.before_comma}-macOS-arm64.zip"
   name "Bubble Tax"
